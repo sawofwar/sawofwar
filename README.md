@@ -1,5 +1,5 @@
-### JS, HTML, CSS
+### JS/TS, HTML, CSS
 
-Every now and then I upload small projects that I have made here.
+Every now and then I upload my projects here.
 
 You can reach me at warsawxx@gmail.com :)
