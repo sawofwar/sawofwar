@@ -1,4 +1,4 @@
-### JS/TS, HTML, CSS
+### React, JS/TS, HTML, CSS
 
 Every now and then I upload my projects here.
 
