@@ -1,4 +1,4 @@
-### React, Astro, Tailwind, JS/TS, HTML, CSS
+### React, Next, Astro, Tailwind, TS
 
 Every now and then I upload my projects here.
 
